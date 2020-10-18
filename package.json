@@ -1,0 +1,12 @@
+{
+  "name": "@nunu/bern",
+  "version": "1.0.0",
+  "description": "Nunu - Bern package",
+  "main": "index.js",
+  "author": "Raphael Chaula",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "node index.js"
+  }
+}
