@@ -10,8 +10,13 @@ const bernThree = () => {
     console.log("So I am @nunu/bern");
 };
 
+const bernFour = () => {
+    console.log("Welcome");
+};
+
 module.exports = {
     bernOne,
     bernTwo,
-    bernThree
+    bernThree,
+    bernFour
 }
