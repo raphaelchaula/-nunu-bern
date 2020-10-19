@@ -14,9 +14,14 @@ const bernFour = () => {
     console.log("Welcome");
 };
 
+const bernFive = () => {
+    console.log("The show is complete free")
+}
+
 module.exports = {
     bernOne,
     bernTwo,
     bernThree,
-    bernFour
+    bernFour,
+    bernFive
 }
